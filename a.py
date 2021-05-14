@@ -1,6 +1,6 @@
 from tkinter import *
 
-# initallization
+# initialization
 window = Tk()
 
 label = Label(text="Please enter your name\n",bg="black",fg="white")
